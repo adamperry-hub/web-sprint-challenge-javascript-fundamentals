@@ -29,6 +29,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 2. Explain the difference between a callback and a higher order function.
 
+Call backs pass in higher order functions and higher order functions allow callbacks into functions
+
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
